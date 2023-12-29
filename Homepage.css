@@ -1,0 +1,174 @@
+.modern-living-room-interior-20-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 850px;
+  object-fit: cover;
+}
+.homepage-child {
+  position: absolute;
+  top: 767px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0.6) 25.71%,
+    #fff 38.55%
+  );
+  width: 1440px;
+  height: 257px;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-teal-100);
+  width: 1240px;
+  height: 180px;
+}
+.major {
+  margin: 0;
+}
+.major-brands {
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.01em;
+  line-height: 130%;
+  display: inline-block;
+  width: 112px;
+}
+.parent {
+  position: absolute;
+  top: 38px;
+  left: 111px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.k {
+  position: relative;
+  line-height: 120%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.container,
+.k-parent,
+.parent1 {
+  position: absolute;
+  top: 38px;
+  left: 413px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.container,
+.parent1 {
+  left: 1017px;
+}
+.parent1 {
+  left: 715px;
+}
+.frame-inner,
+.frame-item,
+.line-div {
+  position: absolute;
+  top: 39.5px;
+  left: 317.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 101px;
+}
+.frame-inner,
+.line-div {
+  left: 619.5px;
+}
+.line-div {
+  left: 921.5px;
+}
+.ecohomelink4,
+.rectangle-parent {
+  position: absolute;
+  top: 747px;
+  left: 100px;
+  width: 1240px;
+  height: 180px;
+}
+.ecohomelink4 {
+  top: 58px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-russo-one);
+  display: inline-block;
+  width: 260px;
+  height: 62px;
+}
+.home1 {
+  font-weight: 600;
+}
+.about,
+.home1 {
+  position: relative;
+}
+.home-parent {
+  position: absolute;
+  top: 58px;
+  left: 827px;
+  width: 513px;
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+}
+.the-center-of-container {
+  position: absolute;
+  top: 271px;
+  left: 276px;
+  font-size: var(--font-size-45xl);
+  line-height: 120%;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 888px;
+}
+.discover-more {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-weight: 600;
+}
+.discover-more-wrapper {
+  position: absolute;
+  top: 534px;
+  left: 572px;
+  border-radius: var(--br-3xs);
+  background-color: rgba(226, 226, 226, 0.4);
+  backdrop-filter: blur(30px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 80px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.homepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-saira);
+}

@@ -1,0 +1,151 @@
+.smart-air-purifier,
+.smart-air-purifier1 {
+  position: absolute;
+  left: 100px;
+  display: inline-block;
+  width: 245px;
+}
+.smart-air-purifier {
+  top: 100px;
+  line-height: 130%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.smart-air-purifier1 {
+  top: 208px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  line-height: 170%;
+  color: var(--color-black);
+  text-align: justify;
+}
+.lui-peng-8nxtrv6i4wq-unsplash-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 265px;
+  height: 400px;
+  object-fit: cover;
+}
+.google2 {
+  position: absolute;
+  top: 335px;
+  left: 92px;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 600;
+}
+.lui-peng-8nxtrv6i4wq-unsplash-container {
+  position: relative;
+  width: 265px;
+  height: 400px;
+}
+.amazon2 {
+  position: absolute;
+  top: 335px;
+  left: 78px;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 600;
+}
+.frame-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.products-details-2-inner {
+  position: absolute;
+  top: 70px;
+  left: 415px;
+  width: 1150px;
+  height: 400px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.base1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.insert-image-here1 {
+  position: absolute;
+  height: 67.51%;
+  width: 38.47%;
+  top: 6.77%;
+  right: 6.94%;
+  bottom: 25.72%;
+  left: 54.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.kegunaan-smart-air {
+  margin: 0;
+}
+.the-best-furnitur-container1 {
+  position: absolute;
+  width: 38.75%;
+  top: calc(50% - 276.5px);
+  left: 6.94%;
+  line-height: 130%;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+}
+.furnitre-power-is1 {
+  position: absolute;
+  width: 39.58%;
+  top: calc(50% - 156.5px);
+  left: 6.94%;
+  font-size: var(--font-size-xl);
+  line-height: 170%;
+  display: inline-block;
+}
+.features-441 {
+  overflow: hidden;
+}
+.features-441,
+.section-6-wrapper,
+.section-61 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 591px;
+}
+.section-6-wrapper {
+  top: 540px;
+}
+.product-page1 {
+  position: absolute;
+  top: 48px;
+  left: 56px;
+  font-size: var(--font-size-sm);
+  text-decoration: underline;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.products-details-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1131px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-saira);
+}

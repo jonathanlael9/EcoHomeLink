@@ -1,0 +1,410 @@
+.rectangle-icon {
+  position: absolute;
+  height: 43.94%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 56.06%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ecohomelink {
+  position: absolute;
+  top: 44px;
+  left: 45px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-russo-one);
+  color: var(--color-white);
+  display: inline-block;
+  width: 260px;
+  height: 62px;
+}
+.account-sign-up-child {
+  position: absolute;
+  height: 65.44%;
+  width: 39.79%;
+  top: 21.94%;
+  right: 30.03%;
+  bottom: 12.61%;
+  left: 30.17%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 82px 40px -14px rgba(100, 100, 100, 0.08);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.account-log-in {
+  position: absolute;
+  height: 4.78%;
+  width: 15.28%;
+  top: 24.33%;
+  left: 42.43%;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.5px;
+  line-height: 44px;
+  display: inline-block;
+}
+.span {
+  color: var(--color-darkslategray);
+}
+.lets-get-started {
+  text-decoration: underline;
+  font-weight: 900;
+  color: var(--color-gray-400);
+}
+.are-you-a-container {
+  position: absolute;
+  height: 1.86%;
+  width: 15.42%;
+  top: 79.67%;
+  left: 42.29%;
+  font-size: var(--font-size-smi-8);
+  display: inline-block;
+  color: var(--color-dimgray);
+}
+.btn-prytemplate1-2-child {
+  position: absolute;
+  height: 103.55%;
+  width: 100.44%;
+  top: -1.66%;
+  right: -0.24%;
+  bottom: -1.9%;
+  left: -0.21%;
+  border: 1.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.sign-up {
+  position: absolute;
+  height: 47.87%;
+  width: 24.41%;
+  top: 26.78%;
+  left: 37.65%;
+  letter-spacing: 0.7px;
+  line-height: 22.53px;
+  font-weight: 900;
+  display: inline-block;
+}
+.btn-prytemplate1-2 {
+  position: absolute;
+  height: 4.69%;
+  width: 23.61%;
+  top: 4.3%;
+  right: 3.19%;
+  bottom: 91.01%;
+  left: 73.19%;
+  text-align: right;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+}
+.rectangle {
+  position: absolute;
+  height: 101.47%;
+  width: 100.26%;
+  top: -0.74%;
+  right: -0.13%;
+  bottom: -0.74%;
+  left: -0.13%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.johndoeexamplecom {
+  position: absolute;
+  height: 62.78%;
+  width: 100%;
+  top: 37.42%;
+  left: 0;
+  line-height: 28.16px;
+  display: flex;
+  align-items: center;
+}
+.email-adrress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-2xs-3);
+  line-height: 18.06px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.group1,
+.group2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group1 {
+  height: 73.09%;
+  width: 86.89%;
+  top: 17.5%;
+  right: 8.68%;
+  bottom: 9.41%;
+  left: 4.42%;
+}
+.inputname-copy-2 {
+  position: absolute;
+  height: 33.25%;
+  width: 100%;
+  top: 33.5%;
+  right: 0;
+  bottom: 33.25%;
+  left: 0;
+}
+.ex-iconeye {
+  height: 23.53%;
+  width: 4.21%;
+  top: 38.24%;
+  right: 2.63%;
+  bottom: 38.24%;
+  left: 93.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div,
+.ex-iconeye,
+.group3 {
+  position: absolute;
+}
+.div {
+  height: 60.39%;
+  width: 100%;
+  top: 39.83%;
+  left: 0;
+  line-height: 28.16px;
+  display: flex;
+  align-items: center;
+}
+.group3 {
+  height: 68.68%;
+  width: 86.89%;
+  top: 17.5%;
+  right: 8.68%;
+  bottom: 13.82%;
+  left: 4.42%;
+}
+.inputname-copy-3,
+.rectangle2 {
+  position: absolute;
+  height: 33.25%;
+  width: 100%;
+  top: 66.75%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle2 {
+  height: 101.47%;
+  width: 100.26%;
+  top: -0.74%;
+  right: -0.13%;
+  bottom: -0.74%;
+  left: -0.13%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.john {
+  position: absolute;
+  height: 62.78%;
+  width: 99.55%;
+  top: 37.42%;
+  left: 0.45%;
+  line-height: 28.16px;
+  display: flex;
+  align-items: center;
+}
+.first-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-2xs-3);
+  line-height: 18.06px;
+  font-weight: 500;
+  color: var(--color-gray-400);
+}
+.group5,
+.inputname {
+  position: absolute;
+  height: 73.09%;
+  width: 87.29%;
+  top: 17.5%;
+  right: 8.68%;
+  bottom: 9.41%;
+  left: 4.03%;
+}
+.inputname {
+  height: 33.25%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 66.75%;
+  left: 0;
+  color: var(--color-dimgray);
+}
+.group {
+  position: relative;
+  width: 380px;
+  height: 204.5px;
+}
+.rectangle3 {
+  position: absolute;
+  height: 104.55%;
+  width: 104.65%;
+  top: -2.27%;
+  right: -2.33%;
+  bottom: -2.27%;
+  left: -2.33%;
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.new-shape-icon {
+  position: absolute;
+  height: 34.55%;
+  width: 54.42%;
+  top: 32.73%;
+  right: 22.79%;
+  bottom: 32.73%;
+  left: 22.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.checkbox {
+  position: relative;
+  width: 21.5px;
+  height: 22px;
+}
+.terms {
+  position: relative;
+  text-decoration: underline;
+  line-height: 22.53px;
+}
+.checkboxlabel {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 10.2px;
+  color: var(--color-dimgray);
+}
+.btn-prytemplate-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+}
+.create-an-account {
+  position: absolute;
+  top: 28.13%;
+  left: 28.68%;
+  line-height: 28.16px;
+  font-weight: 500;
+}
+.btn-prytemplate-2 {
+  position: relative;
+  width: 380px;
+  height: 64px;
+  text-align: center;
+  color: var(--color-white);
+}
+.group-parent {
+  position: absolute;
+  top: 377px;
+  left: 530px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: left;
+  color: var(--color-gray-100);
+}
+.account-log-in1 {
+  position: absolute;
+  height: 1.22%;
+  width: 2.99%;
+  top: 36.89%;
+  left: 48.54%;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.5px;
+  line-height: 44px;
+  display: inline-block;
+}
+.bg,
+.sign-up-with {
+  position: absolute;
+  top: 0;
+}
+.bg {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-aliceblue);
+}
+.sign-up-with {
+  left: 21.57%;
+  line-height: 25.6px;
+}
+.google-icon {
+  position: absolute;
+  height: 92.31%;
+  width: 13.45%;
+  top: 7.69%;
+  right: 86.55%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.span1 {
+  position: absolute;
+  height: 46.43%;
+  width: 49.58%;
+  top: 25%;
+  right: 22.64%;
+  bottom: 28.57%;
+  left: 27.78%;
+}
+.btn-outlinetemplate {
+  position: absolute;
+  height: 6.22%;
+  width: 25%;
+  top: 30.67%;
+  right: 37.5%;
+  bottom: 63.11%;
+  left: 37.5%;
+  text-align: left;
+  color: var(--color-darkslategray);
+}
+.account-sign-up {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-zen-kaku-gothic-antique);
+}

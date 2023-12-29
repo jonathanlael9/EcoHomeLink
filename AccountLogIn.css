@@ -1,0 +1,396 @@
+.rectangle-icon1 {
+  position: absolute;
+  height: 43.94%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 56.06%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ecohomelink1 {
+  position: absolute;
+  top: 44px;
+  left: 45px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-russo-one);
+  display: inline-block;
+  width: 260px;
+  height: 62px;
+}
+.account-log-in-child,
+.rectangle4 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.account-log-in-child {
+  height: 65.44%;
+  width: 39.79%;
+  top: 21.23%;
+  right: 30.1%;
+  bottom: 13.32%;
+  left: 30.1%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 82px 40px -14px rgba(100, 100, 100, 0.08);
+  border: 1px solid var(--color-gainsboro-100);
+}
+.rectangle4 {
+  height: 104.55%;
+  width: 104.65%;
+  top: -2.27%;
+  right: -2.33%;
+  bottom: -2.27%;
+  left: -2.33%;
+  border: 1px solid var(--color-gray-400);
+}
+.new-shape-icon1 {
+  position: absolute;
+  height: 34.55%;
+  width: 54.42%;
+  top: 32.73%;
+  right: 22.79%;
+  bottom: 32.73%;
+  left: 22.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.checkbox1 {
+  position: relative;
+  width: 21.5px;
+  height: 22px;
+}
+.terms1 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 22.53px;
+}
+.checkboxlabel1 {
+  position: absolute;
+  width: 6.98%;
+  top: calc(50% + 110px);
+  right: 56.22%;
+  left: 36.81%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+  text-align: left;
+  font-size: 11px;
+  color: var(--color-dimgray);
+}
+.rectangle5 {
+  position: absolute;
+  height: 101.67%;
+  width: 100.26%;
+  top: -0.84%;
+  right: -0.13%;
+  bottom: -0.84%;
+  left: -0.13%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.ex-iconeye1 {
+  position: absolute;
+  height: 23.58%;
+  width: 4.21%;
+  top: 38.29%;
+  right: 2.63%;
+  bottom: 38.13%;
+  left: 93.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div1 {
+  position: absolute;
+  height: 60.34%;
+  width: 100%;
+  top: 39.66%;
+  left: 0;
+  line-height: 28.16px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.group7,
+.group8,
+.password1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.password1 {
+  height: 40.63%;
+  width: 16.66%;
+  font-size: var(--font-size-2xs-3);
+  line-height: 18.06px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+  display: inline-block;
+}
+.group7,
+.group8 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.group7 {
+  height: 68.73%;
+  width: 86.89%;
+  top: 17.56%;
+  right: 8.68%;
+  bottom: 13.71%;
+  left: 4.42%;
+}
+.inputname-copy-31,
+.rectangle6 {
+  position: absolute;
+  height: 49.83%;
+  width: 100%;
+  top: 50.17%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle6 {
+  height: 101.67%;
+  width: 100.26%;
+  top: -0.84%;
+  right: -0.13%;
+  bottom: -0.84%;
+  left: -0.13%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.johndoeexamplecom1 {
+  position: absolute;
+  height: 62.7%;
+  width: 99.55%;
+  top: 37.3%;
+  left: 0.45%;
+  line-height: 28.16px;
+  display: flex;
+  align-items: center;
+}
+.email-address {
+  position: absolute;
+  height: 38.22%;
+  width: 23.52%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-2xs-3);
+  line-height: 18.06px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+}
+.group9 {
+  position: absolute;
+  height: 73.08%;
+  width: 87.29%;
+  top: 17.56%;
+  right: 8.68%;
+  bottom: 9.36%;
+  left: 4.03%;
+}
+.group6,
+.inputname1 {
+  position: absolute;
+  height: 49.83%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 50.17%;
+  left: 0;
+  color: var(--color-dimgray);
+}
+.group6 {
+  height: 13.33%;
+  width: 26.39%;
+  top: 46.49%;
+  right: 36.81%;
+  bottom: 40.18%;
+  left: 36.81%;
+  text-align: left;
+  color: var(--color-gray-100);
+}
+.btn-prytemplate-2-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+}
+.proceed {
+  position: absolute;
+  height: 45.29%;
+  width: 18.95%;
+  top: 28.06%;
+  left: 40.53%;
+  line-height: 28.16px;
+  font-weight: 500;
+  display: inline-block;
+}
+.btn-prytemplate-21 {
+  position: absolute;
+  height: 6.26%;
+  width: 26.39%;
+  top: 66.26%;
+  right: 36.81%;
+  bottom: 27.49%;
+  left: 36.81%;
+  cursor: pointer;
+}
+.account-log-in3,
+.account-log-in4 {
+  position: absolute;
+  height: 4.78%;
+  width: 15.28%;
+  top: 24.33%;
+  left: 42.43%;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.5px;
+  line-height: 44px;
+  display: inline-block;
+  color: var(--color-black);
+}
+.account-log-in4 {
+  height: 4.3%;
+  width: 2.64%;
+  top: 39.74%;
+  left: 48.68%;
+  font-size: var(--font-size-mini);
+}
+.bg1,
+.log-in-with {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.bg1 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-aliceblue);
+}
+.log-in-with {
+  width: 77.15%;
+  left: 22.85%;
+  line-height: 25.6px;
+  display: inline-block;
+}
+.google-icon1 {
+  position: absolute;
+  height: 92.14%;
+  width: 14.24%;
+  top: 7.86%;
+  right: 85.76%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.span2 {
+  position: absolute;
+  height: 46.54%;
+  width: 46.81%;
+  top: 25%;
+  right: 25.42%;
+  bottom: 28.46%;
+  left: 27.78%;
+}
+.btn-outlinetemplate1 {
+  position: absolute;
+  height: 5.47%;
+  width: 25%;
+  top: 32.71%;
+  right: 37.5%;
+  bottom: 61.82%;
+  left: 37.5%;
+  text-align: left;
+}
+.btn-outlinetemplate1,
+.span3 {
+  color: var(--color-darkslategray);
+}
+.lets-get-started1 {
+  text-decoration: underline;
+  font-weight: 900;
+  color: var(--color-gray-400);
+}
+.are-you-a-container1 {
+  position: absolute;
+  height: 1.86%;
+  width: 15.42%;
+  top: 76.11%;
+  left: 42.29%;
+  font-size: var(--font-size-smi-8);
+  display: inline-block;
+  cursor: pointer;
+  color: var(--color-dimgray);
+}
+.btn-prytemplate1-2-item {
+  position: absolute;
+  height: 103.55%;
+  width: 100.44%;
+  top: -1.66%;
+  right: -0.24%;
+  bottom: -1.9%;
+  left: -0.21%;
+  border: 1.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.sign-up1 {
+  position: absolute;
+  height: 47.87%;
+  width: 24.41%;
+  top: 24.88%;
+  left: 37.65%;
+  letter-spacing: 0.7px;
+  line-height: 22.53px;
+  font-weight: 900;
+  display: inline-block;
+}
+.btn-prytemplate1-21 {
+  position: absolute;
+  height: 4.69%;
+  width: 23.61%;
+  top: 4.3%;
+  right: 3.19%;
+  bottom: 91.01%;
+  left: 73.19%;
+  cursor: pointer;
+  text-align: right;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+}
+.account-log-in2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-zen-kaku-gothic-antique);
+}

@@ -1,0 +1,142 @@
+.home-solar-panel,
+.home-solar-panel1 {
+  position: absolute;
+  left: 100px;
+  display: inline-block;
+  width: 245px;
+}
+.home-solar-panel {
+  top: 100px;
+  line-height: 130%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.home-solar-panel1 {
+  top: 216px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  line-height: 170%;
+  text-align: justify;
+}
+.lui-peng-8nxtrv6i4wq-unsplash-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 265px;
+  height: 400px;
+  object-fit: cover;
+}
+.google {
+  position: absolute;
+  top: 335px;
+  left: 92px;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 600;
+}
+.lui-peng-8nxtrv6i4wq-unsplash-parent {
+  position: relative;
+  width: 265px;
+  height: 400px;
+}
+.amazon {
+  position: absolute;
+  top: 335px;
+  left: 78px;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 600;
+}
+.group-container {
+  position: absolute;
+  top: 70px;
+  left: 415px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.base {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.insert-image-here {
+  position: absolute;
+  height: 67.51%;
+  width: 38.47%;
+  top: 7.61%;
+  right: 6.94%;
+  bottom: 24.87%;
+  left: 54.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.kegunaaan-home-solar {
+  margin: 0;
+}
+.furnitre-power-is,
+.the-best-furnitur-container {
+  position: absolute;
+  left: 6.94%;
+  display: inline-block;
+}
+.the-best-furnitur-container {
+  width: 38.75%;
+  top: calc(50% - 247.5px);
+  line-height: 130%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.furnitre-power-is {
+  width: 39.58%;
+  top: calc(50% - 108.5px);
+  font-size: var(--font-size-xl);
+  line-height: 170%;
+}
+.features-44,
+.section-6 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  height: 591px;
+}
+.features-44 {
+  top: 0;
+  overflow: hidden;
+}
+.section-6 {
+  top: 540px;
+}
+.product-page {
+  position: absolute;
+  top: 48px;
+  left: 56px;
+  font-size: var(--font-size-sm);
+  text-decoration: underline;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.products-details-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1131px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-saira);
+}

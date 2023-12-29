@@ -1,0 +1,164 @@
+.home {
+  margin: 0;
+}
+.home-assistance {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  line-height: 130%;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 245px;
+}
+.home-assistance-merujuk {
+  position: absolute;
+  top: 216px;
+  left: 100px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  line-height: 170%;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 245px;
+}
+.lui-peng-8nxtrv6i4wq-unsplash-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 265px;
+  height: 400px;
+  object-fit: cover;
+}
+.google4 {
+  position: absolute;
+  top: 335px;
+  left: 92px;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 600;
+}
+.lui-peng-8nxtrv6i4wq-unsplash-parent1 {
+  position: relative;
+  width: 265px;
+  height: 400px;
+}
+.amazon4 {
+  position: absolute;
+  top: 335px;
+  left: 78px;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 600;
+}
+.group-parent1 {
+  position: absolute;
+  top: 70px;
+  left: 415px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.base2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.insert-image-here2 {
+  position: absolute;
+  height: 67.51%;
+  width: 38.47%;
+  top: 13.37%;
+  right: 6.11%;
+  bottom: 19.12%;
+  left: 55.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.the-best-furnitur {
+  position: absolute;
+  width: 38.75%;
+  top: calc(50% - 273.5px);
+  left: 6.94%;
+  line-height: 130%;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+}
+.perangkat-pintar-beberapa {
+  margin-bottom: 0;
+}
+.perangkat-pintar-beberapa-per {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.furnitre-power-is-container {
+  position: absolute;
+  width: 44.24%;
+  top: calc(50% - 153.5px);
+  left: 6.94%;
+  font-size: var(--font-size-base);
+  line-height: 170%;
+  text-align: justify;
+  display: inline-block;
+}
+.features-442 {
+  overflow: hidden;
+}
+.component,
+.features-442,
+.section-62 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 591px;
+}
+.component {
+  top: 540px;
+}
+.product-page2 {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.01em;
+  line-height: 160%;
+  font-weight: 500;
+}
+.product-page-wrapper {
+  position: absolute;
+  top: 24px;
+  left: 50px;
+  width: 172px;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.products-details-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1131px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-saira);
+}

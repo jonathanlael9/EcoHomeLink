@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./ProductList.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Russo One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Zen Kaku Gothic Antique:wght@300;400;500;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="product-list">
+      <div class="product-list-child"></div>
+      <div class="the-best-tech">the Best Tech from Brand</div>
+      <div class="discover-the-latest">
+        Discover the latest and greatest technology to manage your home
+      </div>
+      <div class="card" id="cardContainer">
+        <div class="name-of-items">Smart Home Assistant</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">
+          Control Your Home Easily and Smartly
+        </div>
+        <div class="div2"></div>
+      </div>
+      <div class="card1" id="cardContainer1">
+        <div class="name-of-items">Smart Air Purifier</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">Clean Air for Your Healthy Life</div>
+        <div class="div2"></div>
+      </div>
+      <div class="card2">
+        <div class="name-of-items">Smart Bulb Lamp</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">
+          Efficient Lighting According to Your Needs
+        </div>
+        <div class="div2"></div>
+      </div>
+      <div class="card3">
+        <div class="name-of-items">Coming Soon</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">Wait for the new technology !</div>
+        <div class="div2"></div>
+      </div>
+      <div class="paggination">
+        <img
+          class="paggination-child"
+          alt=""
+          src="./public/group-6356103@2x.png"
+        />
+
+        <div class="paggination1">
+          <div class="paggination-item"></div>
+          <div class="paggination-inner"></div>
+          <div class="paggination-inner"></div>
+          <div class="paggination-inner"></div>
+          <div class="paggination-inner"></div>
+        </div>
+        <img class="group-icon" alt="" src="./public/group-6356102@2x.png" />
+      </div>
+      <div class="card4">
+        <div class="name-of-items">Coming Soon</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">Wait for the new technology !</div>
+        <div class="div2"></div>
+      </div>
+      <div class="card5" id="cardContainer5">
+        <div class="name-of-items">Home Solar Panel</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">24/7 Green Energy for Your Home</div>
+        <div class="div2"></div>
+      </div>
+      <div class="card6">
+        <div class="name-of-items">Coming Soon</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">Wait for the new technology !</div>
+        <div class="div2"></div>
+      </div>
+      <div class="card7">
+        <div class="name-of-items">Coming Soon</div>
+        <div class="card-child"></div>
+        <img class="llight-1-icon" alt="" src="./public/llight-1@2x.png" />
+
+        <div class="control-your-home">Wait for the new technology !</div>
+        <div class="div2"></div>
+      </div>
+    </div>
+
+    <script>
+      var cardContainer = document.getElementById("cardContainer");
+      if (cardContainer) {
+        cardContainer.addEventListener("click", function (e) {
+          window.location.href = "./ProductsDetails3.html";
+        });
+      }
+      
+      var cardContainer1 = document.getElementById("cardContainer1");
+      if (cardContainer1) {
+        cardContainer1.addEventListener("click", function (e) {
+          window.location.href = "./ProductsDetails2.html";
+        });
+      }
+      
+      var cardContainer5 = document.getElementById("cardContainer5");
+      if (cardContainer5) {
+        cardContainer5.addEventListener("click", function (e) {
+          window.location.href = "./ProductsDetails1.html";
+        });
+      }
+      </script>
+  </body>
+</html>
